@@ -1,0 +1,58 @@
+body {
+    color: rgb(88, 238, 238);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("background.jpg");
+}
+header {
+    font-size: 16px;
+}
+h1 {
+    background: rgba(0, 0, 20, 0.55);
+    font-style: cursive;
+    border: 6px solid rgb(168, 154, 161);
+    margin: 0 auto;
+    border-radius: 6px;
+    width: 10em;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h2 {
+    color: 12px solid hotpink;
+    text-shadow: 2px 2px 8px pink;
+}
+.about {
+    background: rgba(0, 0, 0, .85);
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Playfair Display', serif;
+}
+#footer {
+    color: rgb(88, 238, 238);
+    position: absolute;
+    bottom: 15px;
+    left: 20px;
+    font-size: 25px;
+}
+#footer li {
+    display: inline-block;
+    margin-right: 25px;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
+#firstPar {
+    font-size: 20px;
+    font-weight: bold;
+    width: 60%;
+    background: rgba(0, 0, 0, .90);
+    margin-bottom: 30px;
+    margin-top: 25px;
+    border: none;
+    font-family: 'Rubik', sans-serif;
+    color: rgb(173, 89, 89)
+}

@@ -1,0 +1,45 @@
+
+
+h1 {color: rgb(253, 237, 236);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 200px; 
+text-align: center; 
+} 
+
+h2 {color: rgb(253, 237, 236);
+    font-family: Arial, Helvetica, sans-serif;
+font-size: 120px;
+}
+
+nav {position: fixed;
+    z-index: 1; 
+    top: 0; 
+    left: 0;
+    background-color:rgba(236, 239, 244, 0.5);  
+    width: 250px;
+    display: inline-block;
+    font-size: 40px;
+}
+
+body {
+    background-image: url("background.jpg"); 
+    background-repeat: no-repeat;
+    background-size: 2000px; 
+}
+
+
+li {color: rgb(253, 237, 236);
+    list-style-type: none;
+    font-size: 23px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
+a {color: rgb(9, 0, 14);
+}
+a:hover {color:blue; 
+}
+  

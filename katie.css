@@ -1,0 +1,39 @@
+html{
+    background-image: url("bellaartesample.jpg") ;
+background-size: cover;
+background-repeat: no-repeat
+}
+header {background-color:rgb(153, 97, 167);
+    text-align:center;
+    font-size:25px;
+    display:ruby-base-container;
+
+
+}
+body {
+    color: whitesmoke;
+    text-align:center;
+    }
+
+#membership{
+    float:right;
+    display: center;
+
+}
+
+footer{
+    background-color:rgb(153, 97, 167);
+    text-align:center;
+    font-size: 15px;
+    display: ruby-base-container;
+
+
+}
+
+ li {
+    text-decoration: none;
+
+    
+      
+}
+
